@@ -156,7 +156,7 @@ html {
 
 .everything-wrapper {
   display: flex;
-  min-height: 100%;
+  min-height: 100vh;
   flex-direction: column; }
 
 .everything-but-footer-wrapper {
